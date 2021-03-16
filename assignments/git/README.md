@@ -13,12 +13,6 @@ Abra uma issue nesse repositório aqui indicando o link para o arquivo no seu re
 Baixe o arquivo [handson.zip] (handson.zip) e descompacte-o
 A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson/"
 
-As caixas vazias
-```
-
-```
-representam o conteúdo que você precisa preencher e postar em seu repositório privado
-
 1. Descreva qual é a saída dos seguintes comandos
     -  `git branch`
     -  `git checkout BRANCH_NAME` (USE THE NAME OF AN EXISTING BRANCH)
